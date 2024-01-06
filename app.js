@@ -1,6 +1,6 @@
 // TODO: Enable strict mode
 
-"Strict Mode";
+"use strict";
 
 // TODO: Fix the following parameter list
 function parseToJSON(data) {
